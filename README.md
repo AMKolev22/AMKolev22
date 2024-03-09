@@ -3,13 +3,13 @@
 
 <p align="left">
   <a >
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=amkolev22&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=amkolev22&theme=radical&hide_border=true">		  
+    <img width="49.5%" src="https://github-readme-stats-xi-navy.vercel.app/api?username=amkolev22&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt&hide_border=true">
+   <img src="https://streak-stats.demolab.com?user=amkolev22&theme=cobalt2&hide_border=true" alt="GitHub Streak" />  
   </a>
 </p>
 <p align="center">
   <a href="">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amkolev22&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+    <img width="42.5%" src="https://github-readme-stats-xi-navy.vercel.app/api/top-langs/?username=amkolev22&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=html,css&exclude_repo=martian">
   </a>
 </p>
 
