@@ -27,7 +27,7 @@
 </p>
 <p align="center">
   <a href="">
-    <img width="49.5%" src="https://github-readme-stats-xi-navy.vercel.app/api/top-langs/?username=amkolev22&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=html,css&exclude_repo=martian">
+    <img width="49.5%" src="https://github-readme-stats-xi-navy.vercel.app/api/top-langs/?username=amkolev22&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=html,css,mdx&exclude_repo=martian">
   </a>
 </p>
 
