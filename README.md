@@ -34,4 +34,4 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{amkolev22}/count.svg"></p>
 
 
-<p>Shader engine :)</p>
+<p>♥ rust</p>
